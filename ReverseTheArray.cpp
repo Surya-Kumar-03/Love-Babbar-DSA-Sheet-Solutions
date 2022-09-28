@@ -22,3 +22,6 @@ int main()
     }
     return 0;
 }
+
+// Time Complexity= o(n), Space Complexity = o(1)
+// if expected to return in same array, use swapping
